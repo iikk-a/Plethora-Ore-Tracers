@@ -8,7 +8,7 @@ Requires Plethora and CC:Tweaked.
 The required modules are Neural Interface, Overlay Glasses and Block Scanner. Without these, it simply cannot function.
 
 ## Examples
-Here is a YouTube video demonstrating how it works.
+Here is a YouTube video demonstrating how it works. (Click the image to be redirected)
 [![YouTube video demonstration](https://img.youtube.com/vi/ljtvr_jARDk/0.jpg)](https://www.youtube.com/watch?v=ljtvr_jARDk)
 
 
