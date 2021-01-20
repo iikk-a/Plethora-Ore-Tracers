@@ -14,7 +14,7 @@ Here is a YouTube video demonstrating how it works. (Click the image to be redir
 [![YouTube video demonstration](https://img.youtube.com/vi/ljtvr_jARDk/0.jpg)](https://www.youtube.com/watch?v=ljtvr_jARDk)
 
 
-The tracers have different colours depending on what ore it's targetting.
+The tracers have different colours depending on what ore it's targeting.
 ![Different Tracer Colors](tracer_colors.png)
 
 
