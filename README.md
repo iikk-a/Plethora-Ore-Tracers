@@ -13,7 +13,7 @@ Here is a YouTube video demonstrating how it works.
 
 
 The tracers have different colours depending on what ore it's targetting.
-![Different Tracer Colors](Tracer 866.png)
+![Different Tracer Colors](tracer_colors.png)
 
 
 It has an interface that lets you choose what ores you want to target.
