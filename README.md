@@ -26,7 +26,7 @@ By clicking on an item you can select it. Clicking said item again unselects it
 ![Unchecked Interface](tracers_interface_checked.png)
 
 ## Usage
-You can download it from here, if you're using it on your local machine, but the easiest way is to download it through pastebin. Type this into your neural connector:
+You can download it from here, if you're using it on your local machine, but the easiest way is to download it through pastebin. Type these into your neural connector:
 ```
 pastebin get xLHQDZTd startup.lua
 reboot
