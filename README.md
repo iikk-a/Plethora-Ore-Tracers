@@ -35,4 +35,6 @@ reboot
 After that you are greeted with the interface shown above. After that, simply check the ores you want to find and press "Start Application" for it to start finding ores for you. Good luck!
 
 ### Bugs
-No bugs have been found as of yet, but if you do find one, please leave it as an issue here on GitHub so I can get to fixing it. Thank you
+Doesn't work with Optifine shaders, trying to figure out why. Not sure if shaders prevent the glasses from drawing lines. 2D canvas works with shaders, so that leads me to believe that shaders interfere with Plethora's 3D canvas renderer.
+
+Trying to find a good way around it that doesn't involve me flattening 3D lines to a 2D plane using math.
